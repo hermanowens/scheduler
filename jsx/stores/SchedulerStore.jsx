@@ -15,14 +15,14 @@ let SchedulerStore = _.extend({}, EventEmitter.prototype, {
         },
         {
             id: 1,
-            time: '10:00am-11:00am',
+            time: '10:00am - 11:00am',
             name: '',
             phone: '',
             scheduled: false
         },
         {
             id: 2,
-            time: '11:00am-12pm',
+            time: '11:00am - 12:00pm',
             name: '',
             phone: '',
             scheduled: false
